@@ -14,6 +14,10 @@ In the dynamic landscape of San Francisco's real estate market, the proliferatio
 
 This data analysis project seeks to unravel the intricate relationship between the expanding AirBNB market and the availability of conventional rental housing in San Francisco. Our primary objective is to empirically investigate whether the surge in AirBNB listings is indeed correlated with a reduced supply of long-term rental units. By harnessing a rich array of data sources and employing rigorous analytical techniques, we aim to shed light on the extent of this phenomenon and its implications for the housing landscape in one of the country's most dynamic and densely populated cities. Through this analysis, we aspire to provide insights that can inform discussions, policies, and potential solutions regarding the balance between the short-term rental industry and the long-term housing needs of San Francisco's residents.
 
+# How To Use
+
+Download the code to your computer and open it with Jupyter Notebook, then run the code. All three directories contain their own discrete resource files that interact with each code notebook, as well as an images directory for printing off Matplotlib exports. 
+
 # Analysis
 
 **Q1 Analysis:**
