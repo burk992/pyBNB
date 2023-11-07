@@ -4,7 +4,9 @@ This is a repo for Project 1 of the Data Analytics Boot Camp through Washington 
 **Authors**
 
 Chris Burk, https://github.com/burk992
+
 Emma Holtgrieve, https://github.com/eholtgrieve
+
 Simon Murray, https://github.com/simonmurray25
 
 
@@ -13,6 +15,12 @@ Simon Murray, https://github.com/simonmurray25
 In the dynamic landscape of San Francisco's real estate market, the proliferation of short-term rental platforms, such as AirBNB, has emerged as a defining feature of the city's housing ecosystem. This phenomenon has raised questions about its potential impact on the availability of long-term rental housing for residents. As the allure of AirBNB has grown, so too have concerns that traditional rental properties are being diverted into the lucrative short-term rental market, exacerbating the scarcity of affordable housing.
 
 This data analysis project seeks to unravel the intricate relationship between the expanding AirBNB market and the availability of conventional rental housing in San Francisco. Our primary objective is to empirically investigate whether the surge in AirBNB listings is indeed correlated with a reduced supply of long-term rental units. By harnessing a rich array of data sources and employing rigorous analytical techniques, we aim to shed light on the extent of this phenomenon and its implications for the housing landscape in one of the country's most dynamic and densely populated cities. Through this analysis, we aspire to provide insights that can inform discussions, policies, and potential solutions regarding the balance between the short-term rental industry and the long-term housing needs of San Francisco's residents.
+
+# Sourcing Data
+
+insideairbnb.com/san-francisco - This was the source of our scraped AirBNB listing data.
+
+census.gov - This was the source of our housing data for the San Francisco City/County area. 
 
 # How To Use
 
