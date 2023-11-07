@@ -1,5 +1,5 @@
 # pyBNB
-This is a repo for Project 1 of the Data Analytics Boot Camp through Washington University in St. Louis, partnered with edX. 
+This is a repository to conclude Project 1 of the Data Analytics Boot Camp through Washington University in St. Louis, partnered with edX. 
 
 **Authors**
 
@@ -24,7 +24,7 @@ census.gov - This was the source of our housing data for the San Francisco City/
 
 # How To Use
 
-Download the code to your computer and open it with Jupyter Notebook, then run the code. All three directories contain their own discrete resource files that interact with each code notebook, as well as an images directory for printing off Matplotlib exports. 
+Download the code to your computer and open it with Jupyter Notebook, then run the code. All three directories contain their own discrete resource files that interact with each code notebook, as well as an images directory for printing off Matplotlib exports. A slide deck in Powerpoint format is included to present our findings from the data. 
 
 # Analysis
 
